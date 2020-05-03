@@ -1,6 +1,6 @@
 # Stickycmd
 
-![Stickycmd](https://ctrla1tdel.files.wordpress.com/2020/05/sk.gif)
+![Stickycmd](https://ctrla1tdel.files.wordpress.com/2020/05/stickycmd.jpg)
 
 ## About
 
