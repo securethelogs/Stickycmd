@@ -6,6 +6,7 @@
 
 PowerShell Script that replaces sethc.exe with cmd.exe, allowing you to get a cmd prompt during the lockout screen. 
 
+Youtube: https://youtu.be/uMJYADGFc-I
 
 ##Run
 
