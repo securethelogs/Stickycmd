@@ -12,7 +12,7 @@ Youtube: https://youtu.be/uMJYADGFc-I
 
 You can either run locally by downloading the script or run remotely using: 
 
-powershell –nop –c “iex(New-Object Net.WebClient).DownloadString(‘https://raw.githubusercontent.com/securethelogs/Stickycmd/master/stickycmd.ps1)”
+powershell –nop –c “iex(New-Object Net.WebClient).DownloadString(‘https://raw.githubusercontent.com/securethelogs/Stickycmd/master/stickycmd.ps1')”
 
 or
 
